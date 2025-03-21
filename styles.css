@@ -1,0 +1,64 @@
+body {
+    font-family: Georgia, serif;
+    background-color: #f4f4f4;
+    margin: 20px;
+    padding: 20px;
+}
+
+/* Navigation */
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 15px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    font-weight: bold;
+    color: #333;
+}
+
+/* Headings */
+h1 {
+    font-size: 2em;
+    color: #444;
+}
+
+h2 {
+    font-size: 1.5em;
+    color: #666;
+}
+
+/* Paragraphs and Text */
+p {
+    font-size: 1.1em;
+    color: #333;
+}
+
+/* Images */
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 10px auto;
+    border-radius: 10px;
+}
+
+/* Lists */
+ul, ol {
+    margin-left: 20px;
+}
+
+dl dt {
+    font-weight: bold;
+    color: #555;
+}
+
+dl dd {
+    margin-left: 10px;
+    color: #777;
+}
